@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\bin\Debug\net6.0\TestTelcoHub.Infastruture.deps.json
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\bin\Debug\net6.0\TestTelcoHub.Infastruture.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\bin\Debug\net6.0\TestTelcoHub.Infastruture.dll
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\bin\Debug\net6.0\TestTelcoHub.Infastruture.pdb
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\bin\Debug\net6.0\TestTelcoHub.Model.dll
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\bin\Debug\net6.0\TestTelcoHub.Model.pdb
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\TestTelcoHub.Infastruture.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\TestTelcoHub.Infastruture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\TestTelcoHub.Infastruture.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\TestTelcoHub.Infastruture.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\TestTelcoHub.Infastruture.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\TestTelcoHub.Infastruture.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\TestTelcoHub.Infastruture.dll
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\refint\TestTelcoHub.Infastruture.dll
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\TestTelcoHub.Infastruture.pdb
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\TestTelcoHub.Infastruture.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Infastruture\obj\Debug\net6.0\ref\TestTelcoHub.Infastruture.dll

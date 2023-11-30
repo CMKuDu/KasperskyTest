@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\bin\Release\net6.0\TestTelcoHub.Model.deps.json
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\bin\Release\net6.0\TestTelcoHub.Model.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\bin\Release\net6.0\TestTelcoHub.Model.dll
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\bin\Release\net6.0\TestTelcoHub.Model.pdb
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\obj\Release\net6.0\TestTelcoHub.Model.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\obj\Release\net6.0\TestTelcoHub.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\obj\Release\net6.0\TestTelcoHub.Model.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\obj\Release\net6.0\TestTelcoHub.Model.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\obj\Release\net6.0\TestTelcoHub.Model.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\obj\Release\net6.0\TestTelcoHub.Model.dll
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\obj\Release\net6.0\refint\TestTelcoHub.Model.dll
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\obj\Release\net6.0\TestTelcoHub.Model.pdb
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\obj\Release\net6.0\TestTelcoHub.Model.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Model\obj\Release\net6.0\ref\TestTelcoHub.Model.dll

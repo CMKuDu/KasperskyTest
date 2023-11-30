@@ -1,0 +1,5 @@
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Service\obj\Release\net6.0\TestTelcoHub.Service.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Service\obj\Release\net6.0\TestTelcoHub.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Service\obj\Release\net6.0\TestTelcoHub.Service.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Service\obj\Release\net6.0\TestTelcoHub.Service.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TestTelcoHub\TestTelcoHub.Service\obj\Release\net6.0\TestTelcoHub.Service.csproj.CoreCompileInputs.cache
